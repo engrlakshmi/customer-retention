@@ -1,11 +1,8 @@
 # Customer Engagement and Retention Strategies of Online Travel Agencies
 
-**Customer Engagement has been the most prominent topic in the Marketing field.**
-In a world thronging with products vying for consumer attention, it is imperative to study how effective Customer Engagement Strategies can be explored to be successful in the Market. Retail has seen a massive shift with digitalization. Employing Artificial Intelligence (AI) into the Retail sector has given it the much need impetus to thrive and survive. Artificial Intelligence, Machine Learning, Predictive Analysis and Sentiment Analysis in its varied forms are working to aid retailers in grabbing customer attention. Data is used to learn and unlearn from customer behaviour which is at the crux of purchase decisions. Browsing history, purchase history, time spent on products, click bait on suggestions are used to tarry and understand consumer decision making.
 
-The study tries to understand:
-*if customer interest is being affected aided by Artificial Intelligence.
-*tries to explore if Artificial Intelligence can aid in developing Customer Engagement.
-*tries to find out if Customer Engagement is aiding purchase behaviour in the Retail Industry.*
+In a market saturated with competing products, it is crucial to investigate the effectiveness of Customer Engagement Strategies in order to achieve success. The retail industry has experienced a significant transformation due to digitalization. The integration of Artificial Intelligence (AI) into the retail sector has provided the necessary momentum for growth and survival. Various forms of AI, including Machine Learning, Predictive Analysis, and Sentiment Analysis, are being employed to assist retailers in capturing customer attention. Data analysis is utilized to gain insights from customer behavior, which plays a pivotal role in purchase decisions. Factors such as browsing history, purchase history, time spent on products, and personalized suggestions contribute to understanding and influencing consumer decision-making.
 
-The data is collected through google forms which was shared across customers dependent on online travel agenices.
+The objective of this study is to examine the impact of Artificial Intelligence on customer interest, explore its potential in enhancing Customer Engagement, and determine its influence on purchase behavior within the retail industry.
+
+To gather data for this study, a Google Form was distributed to customers who rely on online travel agencies.
